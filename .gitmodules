@@ -1,0 +1,9 @@
+[submodule "experiment1"]
+	path = experiment1
+	url = git@github.com:tamadalab/2021fit_masuda_experiment1.git
+[submodule "experiment2"]
+	path = experiment2
+	url = git@github.com:tamadalab/2021fit_masuda_experiment2.git
+[submodule "example"]
+	path = example
+	url = git@github.com:tamadalab/2021fit_masuda_experiment_example.git
