@@ -13,13 +13,13 @@
 
 1. kaniのインストール．
 2. 事前アンケートへの回答．
-3. 練習問題の実施．
+3. [練習問題](https://github.com/tamadalab/2021fit_masuda_experiment_example)の実施．
     * リポジトリの作成
     * 問題に取り組む
-4. 課題1の実施．
+4. [課題1](https://github.com/tamadalab/2021fit_masuda_experiment1)の実施．
     * リポジトリの作成
     * 問題に取り組む
-5. 課題2の実施．
+5. [課題2](https://github.com/tamadalab/2021fit_masuda_experiment2)の実施．
     * リポジトリの作成
     * 問題に取り組む
 6. 必要ファイルの送付．
@@ -62,8 +62,8 @@ brew install kani
 クリックすると初期設定中の画面に移ります．
 しばらくしてから，ページを再読み込みすると，準備完了のページが表示されます．
 
-![初期設定中](https://raw.githubusercontent.com/tamadalab/2021fit_masuda/main/resources/pre_experiment/accepting.png)
-![準備完了](https://raw.githubusercontent.com/tamadalab/2021fit_masuda/main/resources/pre_experiment/ready_to_go.png)
+![初期設定中](https://github.com/tamadalab/2021fit_masuda_experiments/raw/main/resources/pre_experiment/accepting.png)
+![準備完了](https://github.com/tamadalab/2021fit_masuda_experiments/raw/main/resources/pre_experiment/ready_to_go.png)
 
 準備完了画面に，作成されたリポジトリのURLが表示されています．
 そのURLをクリックして作成されたリポジトリのページを表示してください．
@@ -72,7 +72,7 @@ brew install kani
 
 作成されたリポジトリのページをみると，どのように問題に取り組めば良いかが示されています．
 指示に従い，問題に取り組んでください．
-作成されたリポジトリに push できて初めて問題が提出できたことになる点に注意してください．
+作成されたリポジトリに push できて初めてそのステップが完了したことになる点に注意してください．
 
 ### 4. 課題1の実施．
 
@@ -89,7 +89,7 @@ brew install kani
 
 作成されたリポジトリのページをみると，どのように問題に取り組めば良いかが示されています．
 指示に従い，問題に取り組んでください．
-作成されたリポジトリに push できて初めて問題が提出できたことになる点に注意してください．
+作成されたリポジトリに push できて初めてそのステップが完了したことになる点に注意してください．
 
 
 ### 5. 課題2の実施．
@@ -107,11 +107,12 @@ brew install kani
 
 作成されたリポジトリのページをみると，どのように問題に取り組めば良いかが示されています．
 指示に従い，問題に取り組んでください．
-作成されたリポジトリに push できて初めて問題が提出できたことになる点に注意してください．
+作成されたリポジトリに push できて初めてそのステップが完了したことになる点に注意してください．
 
 ### 6. 必要ファイルの送付
 
-各プロジェクトの `.kani/kani.sqlite` をGoogle Driveの指定された場所に置いてください．
+各プロジェクトの `.kani/kani.sqlite` を[Google Drive](https://drive.google.com/drive/folders/1WUKMcC6sM6QQz-wb9NJmugFvpW3mvAHu?usp=sharing)の自分の名前のフォルダに3つの `kani.sqlite`を置いてください．
+その際，それぞれを `example.sqlite`，`experiment1.sqlite`，`experiment2.sqlite`に名前を変更しておいてもらえると助かります．
 
 ### 7. 事後アンケートへの回答．
 
