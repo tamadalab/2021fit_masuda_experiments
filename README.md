@@ -31,6 +31,9 @@
 
 ### 1. kaniのインストール．
 
+Git/GitHub 操作支援ツール kani をインストールします．
+kaniは [github.com/tamadalab/kani](https://github.com/tamadalab/kani)にて開発されています．
+
 #### brew によるインストール
 
 以下の手順でインストールしてください．
