@@ -1,5 +1,11 @@
 # 実験について
 
+
+
+
+
+
+
 ## 実験結果の公表
 
 この実験で得られた結果は，個人が特定されない状態にした上で，
@@ -51,9 +57,11 @@ brew install kani
 `/bin/bash` の場合と `/bin/zsh`で行うべき処理が異なります．
 
 * `/bin/bash`の場合
-    * `echo 'eval "$(git kani init -)"' >> ~/.bash_profile`
+    * `echo 'eval "$(git kani init -)"' >> ~/.bashrc`
+    * その後，`. ~/.bashrc` を実行し，設定を反映させましょう．
 * `/bin/zsh`の場合
-    * `echo 'eval "$(git kani init -)"' >> ~/.zprofile`
+    * `echo 'eval "$(git kani init -)"' >> ~/.zshrc`
+    * その後，`. ~/.zshrc` を実行し，設定を反映させましょう．
 
 
 ### 2. 事前アンケートへの回答．
